@@ -23,3 +23,6 @@ hsb2 %>%
 
 ```
 
+## Relationship of SES to Reading Scores
+
+This section will look at the relationship of socioeconomic status to reading scores. 
